@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-1.0.0-blue) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hxri/hypercube) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com)
+![Version](https://img.shields.io/badge/version-1.0.0-blue) [![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/hxri/hypercube)
 
 ## Frontend for PES YP Hypercube app
 The frontend is built using the following libraries
