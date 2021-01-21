@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hxri/hypercube) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com)
+![Version](https://img.shields.io/badge/version-1.0.0-blue) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hxri/hypercube) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com)
 
 ## Frontend for PES YP Hypercube app
 The frontend is built using the following libraries
@@ -8,7 +8,7 @@ The frontend is built using the following libraries
 4. Isomorphic Unfetch
 5. Fontawesome
 
-## Fetting Started
+## Getting Started
 1. Clone the project
 2. Run `npm install` in the root directory
 3. Run `npm run dev` in the root directory
