@@ -16,12 +16,12 @@ The front end is built using the following libraries
 ## File Structure
 
 ```
-|__ .next
-|__ components: Contains the react components custom made for the project.
-|__ pages : The project files are in this folder.
-|   |__ api: {Used for Testing}
-|   |__ users: {Used for Testing}
-|   |__ index.js: Main file to modify the project where all the components are rendered.
-|__ public : Rendered js files
-|__ styles : Global and Local css styles (not used)
+|__ *.next* : Next.js files
+|__ *components* : Contains the react components custom made for the project.
+|__ *pages* : The project files are in this folder.
+|   |__ *api* : {Used for Testing}
+|   |__ *users* : {Used for Testing}
+|   |__ *index.js* : Main file to modify the project where all the components are rendered.
+|__ *public* : Rendered js files
+|__ *styles* : Global and Local css styles (not used)
 ```
