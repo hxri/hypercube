@@ -15,6 +15,7 @@ The front end is built using the following libraries
 
 ## File Structure
 
+.
 +-- .next
 +-- components: Contains the react components custom made for the project.
 +-- pages : The project files are in this folder.
