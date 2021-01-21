@@ -57,7 +57,7 @@ export default function Groups() {
                     <p className="text-lg leading-none ml-2 mt-1">+596</p>
                 </div>
             </div>
-            <span className="text-xs py-1 px-2 bg-gray-600 text-white rounded-lg absolute right-0 cursor-pointer">See more</span>
+            <span className="text-xxs py-1 px-2 bg-gray-600 text-white rounded-lg absolute right-0 cursor-pointer">See more</span>
         </div>
     )
 }

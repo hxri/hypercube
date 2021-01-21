@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCheckSquare, faHeart, faComment } from '@fortawesome/free-solid-svg-icons';
+import { faHeart, faCommentAlt } from '@fortawesome/free-solid-svg-icons';
 
 export default function Post() {
     return(
@@ -21,7 +21,7 @@ export default function Post() {
                 <div className="activity-panel mt-5 w-24 cursor-pointer">
                     <div className="p-2 bg-gray-200 rounded-lg flex justify-start">
                         <span className="flex text-xs font-bold mr-3"><FontAwesomeIcon className="w-3" icon={faHeart} fixedWidth/> &nbsp;265</span>
-                        <span className="flex text-xs font-bold"><FontAwesomeIcon className="w-3" icon={faComment} fixedWidth/> &nbsp;17</span>
+                        <span className="flex text-xs font-bold"><FontAwesomeIcon className="w-3" icon={faCommentAlt} fixedWidth/> &nbsp;17</span>
                     </div>
                 </div>
             </div>
